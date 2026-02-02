@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gravity Courier Unity Game\\Gravity Courier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|D:\\Gravity Courier Unity Game\\Gravity Courier\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|D:\\Gravity Courier Unity Game\\Gravity Courier\\assets\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|solutionrelative:assets\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|d:\\gravity courier unity game\\gravity courier\\assets\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|D:\\Gravity Courier Unity Game\\Gravity Courier\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|D:\\Gravity Courier Unity Game\\Gravity Courier\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|D:\\Gravity Courier Unity Game\\Gravity Courier\\assets\\goalzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|solutionrelative:assets\\goalzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|D:\\Gravity Courier Unity Game\\Gravity Courier\\assets\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B783CEAC-E4BE-2658-99EB-6FE5F36C29CC}|Assembly-CSharp.csproj|solutionrelative:assets\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAcwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:35:00.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAowPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:34:58.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeathZone.cs",
+              "DocumentMoniker": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\DeathZone.cs",
+              "RelativeDocumentMoniker": "Assets\\DeathZone.cs",
+              "ToolTip": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\DeathZone.cs",
+              "RelativeToolTip": "Assets\\DeathZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:34:57.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoalZone.cs",
+              "DocumentMoniker": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\GoalZone.cs",
+              "RelativeDocumentMoniker": "Assets\\GoalZone.cs",
+              "ToolTip": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\GoalZone.cs",
+              "RelativeToolTip": "Assets\\GoalZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:34:56.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenuManager.cs",
+              "ToolTip": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\MainMenuManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:34:55.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:34:54.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RespawnManager.cs",
+              "DocumentMoniker": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\RespawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RespawnManager.cs",
+              "ToolTip": "D:\\Gravity Courier Unity Game\\Gravity Courier\\Assets\\RespawnManager.cs",
+              "RelativeToolTip": "Assets\\RespawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:34:51.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
